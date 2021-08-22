@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://chittooruvenu.github.io/csb-y12oz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://chittooruvenu.github.io/csb-y12oz/static/js/main.7a521059.chunk.js",
+    "main.js.map": "https://chittooruvenu.github.io/csb-y12oz/static/js/main.7a521059.chunk.js.map",
+    "runtime-main.js": "https://chittooruvenu.github.io/csb-y12oz/static/js/runtime-main.a717d2fb.js",
+    "runtime-main.js.map": "https://chittooruvenu.github.io/csb-y12oz/static/js/runtime-main.a717d2fb.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://chittooruvenu.github.io/csb-y12oz/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://chittooruvenu.github.io/csb-y12oz/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://chittooruvenu.github.io/csb-y12oz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://chittooruvenu.github.io/csb-y12oz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://chittooruvenu.github.io/csb-y12oz/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a717d2fb.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7a521059.chunk.js"
+  ]
+}
